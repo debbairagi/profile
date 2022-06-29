@@ -79,3 +79,22 @@ body{
     transition: 1s;
     transition-delay: 0.75s;
 }
+.navbar-section{
+    background-color: #648baa;
+}
+
+.navbar-container{
+    
+}
+
+
+.about-section{
+    background-color: aquamarine;
+}
+#Education{
+    padding: 20px 0;
+}
+#Education .redcolor{
+    color:red;
+    text-align: center;
+}
