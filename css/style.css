@@ -79,3 +79,51 @@ body{
     transition: 1s;
     transition-delay: 0.75s;
 }
+.navbar-section{
+    top: 0;
+    background-color: #648baa;
+    position:sticky;
+    z-index: 2;
+    
+}
+.about-section{
+    background-color: aquamarine;
+
+}
+#Education{
+    padding: 20px 0;
+    background-color: #2196f3;
+}
+#Education .redcolor{
+    color:red;
+    text-align: center;
+}
+#Education .circle{
+    background-color: orange;
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+.project-section{
+    background-color: rgb(139, 220, 223);
+}
+.project-section a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.portfolio-section{
+    background-color: antiquewhite;
+
+}
